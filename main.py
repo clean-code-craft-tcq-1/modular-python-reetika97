@@ -1,4 +1,5 @@
 import TelePairNumber as TP
+import manual
 
 
 def test_number_to_pair(pair_number,
@@ -19,4 +20,7 @@ if __name__ == '__main__':
   test_pair_to_number('Black', 'Orange', 12)
   test_pair_to_number('Violet', 'Slate', 25)
   test_pair_to_number('Red', 'Orange', 7)
+  manual.printManual()
   print('Done :)')
+
+  
