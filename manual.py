@@ -1,5 +1,6 @@
 import TelePairNumber as TP
-
+MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
+MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
 def printManual():
   for i in range (0, len(MAJOR_COLORS)):
     for j in range (0, len(MINOR_COLORS)):
