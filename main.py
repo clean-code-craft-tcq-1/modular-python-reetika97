@@ -1,7 +1,4 @@
 import TelePairNumber.py 
-MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
-MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
-
 
 
 def test_number_to_pair(pair_number,
